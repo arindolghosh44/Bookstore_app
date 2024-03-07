@@ -1,5 +1,5 @@
 
-2.we means Arindol Ghosh and suraj Goswami created this project.
+2.I means Arindol Ghosh created this project.
 
 
 ![image](https://github.com/arindolghosh44/Bookstore_app/assets/144908811/225cbb66-5252-4edb-9353-2588c29dfb90)
